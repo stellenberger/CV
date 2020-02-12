@@ -6,13 +6,13 @@ I strive to build a career in Software Development, where I am challenged daily 
 
 ## Skills
 
-1. Efficient
+#### Efficient
 The attention to detail required to perform the thousands of notes in a Beethoven sonata from memory has taught me one valuable skill - working methodically. I find transferring this skill to programming plays a vital role in increasing efficiency and scalability when it comes to writing complex code; where incorporating strategies such as Test Driven Development or analytically thinking in order to write structurally secure code.
 
-2. Creative and Inquisitive
+#### Creative and Inquisitive
 I am always eager to try new techniques and to improve my ability. I've found that I learn best by being inquisitive; going the extra mile to find out how something works in a holistic sense broadens ones creative scope and encourages an educated output.
 
-3. Communication
+#### Communication
 Being a coherent communicator is valuable quality to have as both a leader and a member of a team. During my time as a Musician and Teacher, I liaised with organisers, fellow musicians and students on a daily basis.  I was complimented on my communication and personable approach when faced with a problem or task.  Through this I developed very good rapport with clients, colleagues and students alike.
 
 ## Education
@@ -53,6 +53,7 @@ Being a coherent communicator is valuable quality to have as both a leader and a
 **Peripatetic Teacher** (2015 - 2020)   
 *Self-Employed Piano & Music Teacher*  
 - Worked as a piano and music teacher in multiple schools around London, teaching students from the age of 12 - 18. Responsibilities included taking instrumental and improvisational classes, one-to-one tutoring, accompanying in school shows and international choir tours and assisting in music-related school work.
+
 *Private Piano Teacher*  
  - Working as a piano teacher for private students of all ages and experiences - the youngest being 5 years old and oldest 80. Organised private concerts and events for students to partake in, as well as creating new, original and engaging resources for students to use.
 
