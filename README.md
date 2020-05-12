@@ -1,4 +1,4 @@
-<div align="center"><img alt="project-name-placeholder" src="./cv-images/steph-square.png" width="200px" height="auto" style="border-radius:50%" border="3px solid black"></div>
+<div align="center"><img alt="project-name-placeholder" src="./cv-images/steph-square.png" width="200px" height="auto"></div>
 
 
 <h1 align="center">Stephan Ellenberger</h1>
