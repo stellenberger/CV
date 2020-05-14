@@ -14,20 +14,20 @@
 
 </div>
 
-Concert pianist turned Junior Developer, I am a recent graduate of Makers Academy, cohort of May 2020. Inquisitive to all things tech and music, I pride myself in attention to detail and my desire to explore new technologies. I strive to build a career in Software Development, where I am challenged daily with strategical thinking at the forefront of the evolving technological world.
+Concert pianist turned Junior Developer, I am a recent graduate of Makers Academy May 2020. Inquisitive to all things tech and music, I pride myself in attention to detail and my desire to explore new technologies. I strive to build a career in Software Development, where I am challenged daily with strategical thinking at the forefront of the evolving technological world.
 
 
 ## Skills
 
 #### Efficient and Economical
-The attention to detail required to perform the thousands of notes in a Beethoven sonata from memory has taught me one valuable skill - working methodically. I find transferring this skill to programming plays a vital role in increasing efficiency and scalability when it comes to writing complex code; where incorporating strategies such as Test Driven Development or analytical thinking is essential in order to write scalable and structurally secure code.
+The attention to detail required to perform the thousands of notes in a Beethoven sonata from memory and under pressure has taught me one valuable skill - working methodically. Transferring this skill to programming has played a vital role in my efficiency when it comes to writing complex code; where incorporating strategies such as Test Driven Development or analytical thinking is essential in order to write scalable and structurally secure code.
 
 #### Creative and Inquisitive
-I am a fast learner and always eager to try new techniques and to improve my ability. I've found that I learn best by being inquisitive; going the extra mile to find out how something works in a holistic sense broadens ones creative scope and encourages an educated output. 
+My love for analytical thinking and problem solving is what made programming appealing to me. I am a logical thinker and fast learner, an attribute that has been well tested during my time at Makers, and I'm always eager to try new techniques to improve my ability. My prior experience as a musician has taught me to be inquisitive and to try many solutions, as it broadens ones creative scope and encourages an educated output.
 
 #### Communication
 
-Being a coherent communicator is an essential quality to have as both a leader and a member of a team. During both my time as a musician and at Makers Academy, I liased with concert organisers, fellow musicians and programmers alike, and firmly believe that communication can make or break a project. During my time at Makers, I was tasked with programming in pairs or teams nearly every day of the course. 
+During my time at Makers, I was tasked with programming in pairs or teams nearly every day of the course. Communication is crucial to continuous learning as well as being able to summarise problems to find efficient solutions. I am confident in explaining technological concepts with metaphors and non-technical language in order to make it as accessible as possible.
 
 ## Projects
 
@@ -42,8 +42,8 @@ Being a coherent communicator is an essential quality to have as both a leader a
 
 #### Makers Academy (Jan 2020 - May 2020)
 
-- Familiar with programming practises such as OOP, TDD, MVC, DDD
-- Economical and High Quality work using Agile/XP
+- Competent with programming practises such as OOP, TDD, MVC, DDD
+- Efficient work using Agile/XP
 - Web development with Ruby, Rails and JavaScript
 - Testing frameworks such as RSpec, Jasmine
 
@@ -51,8 +51,7 @@ Being a coherent communicator is an essential quality to have as both a leader a
 
 - Classical Performance - Principal Study Piano
 - Performed in venues such as Wigmore Hall, Barbican Centre, and St. James' Picadilly.
-- Formed Miriors Duo with Harpist Gabriella Jones, playing original transcriptions for Harp and Piano.
-- Principal Study teachers: Gabriele Baldocci & Philip Fowke
+- Principal Study teachers: Gabriele Baldocci & Philip Fowke (Emeritus Fellow)
 
 #### Emanuel School (2011 - 2013)
 - Sixth Form Advance Level Qualifications
