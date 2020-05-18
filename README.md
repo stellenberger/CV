@@ -4,6 +4,10 @@
 <h1 align="center">Stephan Ellenberger</h1>
 <div align="center">
 
+<a href="https://medium.com/@s.ellenberger95">
+<img src="./images/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/stephan-ellenberger-2ba0911aa/">
+<img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/Ruby-217%20commits-red.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/JavaScript-110%20commits-yellow.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/HTML-63%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/CSS-128%20commits-purple.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/SQL-35%20commits-cream.svg" alt=""></a>
 
 </div>
@@ -31,13 +35,12 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 
 ## Projects
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| <a href="https://github.com/stellenberger/Community-Video"><img width="1604" alt="community-video" src="./cv-images/community_video.png" height="222" width="258"> </a>  [Community Video](https://github.com/stellenberger/Community-Video) |  <a href="https://github.com/stellenberger/instagram-challenge"><img width="1604" alt="instagram" src="./cv-images/instagram.png" height="222" width="258"> </a>  [Instagram-challenge](https://github.com/stellenberger/instagram-challenge) | <a href="https://github.com/stellenberger/bank_tech_test/"><img width="1604" alt="Tech Tests" src="./cv-images/piggy.png" height="222" width="258"> </a>  [Gilded Rose](https://github.com/stellenberger/GildedRose-Refactoring-Kata/tree/master/js-jasmine) \| [Bank Tech Test](https://github.com/stellenberger/bank_tech_test) |
-| Makers Academy final project. Inspired by social distancing regulations in the 2020 Covid outbreak, this project brings communities closer by encouraging users to share skills with other members, and get paid through donations from other users. This project was completed remotely in 7 days. | Makers Academy weekend challenge - Instagram clone using rails, with basic features to produce an MVP. Completed in 2 days, solo work. | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby and Javascript. |
-
-
-
+| | | 
+|:-------------------------:|:-------------------------:|
+| <a href="https://github.com/stellenberger/Community-Video"><img width="1604" alt="community-video" src="./cv-images/community_video.png" height="222" width="258"> </a>  [Community Video](https://github.com/stellenberger/Community-Video) |  Makers Academy final project. Inspired by social distancing regulations in the 2020 Covid outbreak, this project brings communities closer by encouraging users to share skills with other members, and get paid through donations from other users. This project was completed remotely in 7 days.  |
+<a href="https://github.com/stellenberger/bank_tech_test/"><img width="1604" alt="Tech Tests" src="./cv-images/piggy.png" height="222" width="258"> </a>  [Gilded Rose](https://github.com/stellenberger/GildedRose-Refactoring-Kata/tree/master/js-jasmine) \| [Bank Tech Test](https://github.com/stellenberger/bank_tech_test) | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby and Javascript. |
+| <a href="https://github.com/stellenberger/instagram-challenge"><img width="1604" alt="instagram" src="./cv-images/instagram.png" height="222" width="258"> </a>  [Instagram-challenge](https://github.com/stellenberger/instagram-challenge) | Makers Academy weekend challenge - Instagram clone using rails, with basic features to produce an MVP. Completed in 2 days, solo work. | 
+| <a href="https://github.com/stellenberger/movie_choosie"><img width="1604" alt="movie_choosie" src="./cv-images/movie_choosie.png" height="222" width="258"> </a>  [Moovie-Choosie](https://github.com/stellenberger/movie_choosie) | Movie search engine that displays many attributes of chosen movie. Solo project aimed at practising Vanilla JavaScript, using the DOM and creating single page applications with no page reload. | 
 ## Education
 
 #### Makers Academy (Jan 2020 - May 2020)
