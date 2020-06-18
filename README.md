@@ -23,7 +23,7 @@ Concert pianist turned Junior Developer, I am a recent graduate of Makers Academ
 
 ## Skills
 
-#### Efficient and Economical
+#### Efficient 
 The attention to detail required to perform the thousands of notes in a Beethoven sonata from memory and under pressure has taught me one valuable skill - working methodically. Transferring this skill to programming has played a vital role in my efficiency when it comes to writing complex code; where incorporating strategies such as Test Driven Development or analytical thinking is essential in order to write scalable and structurally secure code.
 
 #### Creative and Inquisitive
