@@ -8,7 +8,7 @@
 <img src="./cv-images/medium.png" alt="medium" hspace="50" height="42" width="42"></a>
 <a href="https://www.linkedin.com/in/stephan-ellenberger-2ba0911aa/">
 <img src="./cv-images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-<a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/Ruby-217%20commits-red.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/JavaScript-110%20commits-yellow.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/HTML-63%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/CSS-128%20commits-purple.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/SQL-35%20commits-cream.svg" alt=""></a>
+<a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/Ruby-252%20commits-red.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/JavaScript-190%20commits-yellow.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/HTML-121%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/CSS-203%20commits-purple.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/SQL-35%20commits-cream.svg" alt=""></a>
 
 </div>
 
@@ -23,7 +23,7 @@ Concert pianist turned Junior Developer, I am a recent graduate of Makers Academ
 
 ## Skills
 
-#### Efficient and Economical
+#### Efficient 
 The attention to detail required to perform the thousands of notes in a Beethoven sonata from memory and under pressure has taught me one valuable skill - working methodically. Transferring this skill to programming has played a vital role in my efficiency when it comes to writing complex code; where incorporating strategies such as Test Driven Development or analytical thinking is essential in order to write scalable and structurally secure code.
 
 #### Creative and Inquisitive
