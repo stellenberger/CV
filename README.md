@@ -41,6 +41,7 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 <a href="https://github.com/stellenberger/bank_tech_test/"><img width="1604" alt="Tech Tests" src="./cv-images/piggy.png" height="222" width="258"> </a>  [Gilded Rose](https://github.com/stellenberger/GildedRose-Refactoring-Kata/tree/master/js-jasmine) \| [Bank Tech Test](https://github.com/stellenberger/bank_tech_test) | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby and Javascript. |
 | <a href="https://github.com/stellenberger/instagram-challenge"><img width="1604" alt="instagram" src="./cv-images/instagram.png" height="222" width="258"> </a>  [Instagram-challenge](https://github.com/stellenberger/instagram-challenge) | Makers Academy weekend challenge - Instagram clone using rails, with basic features to produce an MVP. Completed in 2 days, solo work. | 
 | <a href="https://github.com/stellenberger/movie_choosie"><img width="1604" alt="movie_choosie" src="./cv-images/movie_choosie.png" height="222" width="258"> </a>  [Moovie-Choosie](https://github.com/stellenberger/movie_choosie) | Movie search engine that displays many attributes of chosen movie. Solo project aimed at practising Vanilla JavaScript, using the DOM and creating single page applications with no page reload. | 
+| <a href="https://github.com/ratcliffetj/Age-UK-Volunteer-Matching"><img width="1604" alt="movie_choosie" src="./cv-images/age_uk_volunteer_logo.png" height="222" width="258"> </a>  [Age UK Volunteer Matching](https://github.com/ratcliffetj/Age-UK-Volunteer-Matching) | Completed in just 48 hours as part of a brief submitted by AGE UK for the Hack for Heros Hackathon, June 2020. A team of seven people and created using Ruby on Rails, the app secured the team special mention for second place. The app is now being re-written with React and Rails (can be found <a href="https://github.com/ratcliffetj/Age-UK-Volunteer-Matching">here</a>) for the public. | 
 ## Education
 
 #### Makers Academy (Jan 2020 - May 2020)
@@ -65,6 +66,13 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 - ATCL Diploma (Piano Performance) (2014)
 
 ## Experience
+
+**now-u** (2015 - 2020)    
+*Volunteer Back End Developer*  
+- Developing a Ruby on Rails API for a React and Flutter front end, managing user authentication, campaigns, donations, blogs comments and more. The application consists of nearly 40 relation tables. 
+- Use of Docker for deployment
+- Mapped out the entire relation table for documentation in a diagram for use in onboarding and debugging. 
+
 
 **Self Employed Professional Musician** (2015 - 2020)    
 *Concert Pianist*  
