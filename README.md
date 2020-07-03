@@ -67,7 +67,7 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 
 ## Experience
 
-**now-u** (2015 - 2020)    
+**now-u** (May 2020 - present)    
 *Volunteer Back End Developer*  
 - Developing a Ruby on Rails API for a React and Flutter front end, managing user authentication, campaigns, donations, blogs comments and more. The application consists of nearly 40 relation tables. 
 - Use of Docker for deployment
