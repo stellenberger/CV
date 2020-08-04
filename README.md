@@ -5,9 +5,11 @@
 <div align="center">
 
 <a href="https://medium.com/@s.ellenberger95">
-<img src="./cv-images/medium.png" alt="medium" hspace="50" height="42" width="42"></a>
+<img src="./cv-images/medium.png" alt="medium" hspace="30" height="42" width="42"></a>
+<a href="https://master.d1qkveg99r5k17.amplifyapp.com/">
+<img src="./cv-images/favicon.png" alt="linkedin" hspace="30" height="42" width="42"></a>
 <a href="https://www.linkedin.com/in/stephan-ellenberger-2ba0911aa/">
-<img src="./cv-images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+<img src="./cv-images/linkedin.png" alt="linkedin" hspace="30" height="42" width="42"></a></p>
 <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/Ruby-252%20commits-red.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/JavaScript-190%20commits-yellow.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/HTML-121%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/CSS-203%20commits-purple.svg" alt=""></a> <a href="https://sourcerer.io/stellenberger"><img src="https://img.shields.io/badge/SQL-35%20commits-cream.svg" alt=""></a>
 
 </div>
