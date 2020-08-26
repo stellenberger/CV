@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Icon_2">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_2" data-name="Icon 2" clip-path="url(#clip-Icon_2)">
+    <rect width="512" height="512" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M1,0,0,512" transform="translate(116.5 0.5)" fill="none" stroke="#000" stroke-width="4" style="mix-blend-mode: darken;isolation: isolate"/>
+    <line id="Line_2" data-name="Line 2" x1="4" y2="512" transform="translate(156.5 16.5)" fill="none" stroke="rgba(0,0,0,0.8)" stroke-width="4"/>
+    <line id="Line_3" data-name="Line 3" x1="2" y2="512" transform="translate(209.5 37.5)" fill="none" stroke="rgba(0,0,0,0.5)" stroke-width="4"/>
+    <line id="Line_4" data-name="Line 4" y2="512" transform="translate(260.5 66.5)" fill="none" stroke="rgba(0,0,0,0.35)" stroke-width="4"/>
+    <text id="GJ" transform="translate(118 345)" font-size="300" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">GJ</tspan></text>
+    <line id="Line_5" data-name="Line 5" x1="4" y2="512" transform="translate(309.5 86.5)" fill="none" stroke="rgba(0,0,0,0.15)" stroke-width="4"/>
+  </g>
+</svg>
