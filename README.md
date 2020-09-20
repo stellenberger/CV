@@ -23,7 +23,7 @@
 
 </div>
 
-Concert pianist turned Junior Developer, I am a recent graduate of Makers Academy May 2020. I invested myself wholly into building a career in Software Development after starting an online tutoring business in 2019, where I was fascinated in the process of creating digital products and automating payments and bookings. This, coupled with my love for problem solving led me to pursue a career in technology, and I strive to build a career where automation, strategical thinking and working with cutting edge technologies are part of my daily life. 
+Concert pianist turned Junior Developer, I am a recent graduate of Makers Academy May 2020. I invested myself wholly into building a career in Software Development after starting an online tutoring business in 2019, where I was fascinated by the process of creating digital products and automating payments and bookings. This, coupled with my love for problem-solving led me to pursue a career in technology, and I strive to build a career where automation, strategical thinking and working with cutting edge technologies are part of my daily life. 
 
 I am currently volunteering my skills at non-profit now-u, leading the Front End Development team and am in the process of writing tests throughout the application.
 
