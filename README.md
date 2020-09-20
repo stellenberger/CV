@@ -23,31 +23,31 @@
 
 </div>
 
-Concert pianist turned Junior Developer, I am a recent graduate of Makers Academy May 2020. Inquisitive to all things tech and music, I pride myself in attention to detail and my desire to explore new technologies. I strive to build a career in Software Development, where I am challenged daily with strategical thinking at the forefront of the evolving technological world.
+Concert pianist turned Junior Developer, I am a recent graduate of Makers Academy May 2020. I invested myself wholly into building a career in Software Development after starting an online tutoring business in 2019, where I was fascinated in the process of creating digital products and automating payments and bookings. This, coupled with my love for problem solving led me to pursue a career in technology, and I strive to build a career where automation, strategical thinking and working with cutting edge technologies are part of my daily life. 
 
-I am currently volunteering my skills at non-profit now-u, leading the Front End Development team.
+I am currently volunteering my skills at non-profit now-u, leading the Front End Development team and am in the process of writing tests throughout the application.
 
 
 ## Skills
 
 #### Efficient 
-The attention to detail required to perform the thousands of notes in a Beethoven sonata from memory and under pressure has taught me one valuable skill - working methodically. Transferring this skill to programming has played a vital role in my efficiency when it comes to writing complex code; where incorporating strategies such as Test Driven Development or analytical thinking is essential in order to write scalable and structurally secure code.
+The attention to detail required to perform the thousands of notes in a Beethoven sonata from memory and under pressure has taught me one valuable skill - working methodically. Transferring this skill to programming has played a vital role in my efficiency when it comes to writing complex code; where incorporating strategies such as Test Driven Development or analytical thinking is essential in order to write scalable and structurally secure code. 
 
 #### Creative and Inquisitive
-My love for analytical thinking and problem solving is what made programming appealing to me. I am a logical thinker and fast learner, an attribute that has been well tested during my time at Makers, and I'm always eager to try new techniques to improve my ability. My prior experience as a musician has taught me to be inquisitive and to try many solutions, as it broadens one's creative scope and encourages an educated output.
+My love for analytical thinking and problem solving is what made programming appealing to me. I am a logical thinker and fast learner, an attribute that has been well tested during my time at Makers and since graduating. My prior experience as a musician has taught me to be inquisitive and to try many solutions, as it broadens one's creative scope and encourages an educated output.
 
 #### Communication
 
-During my time at Makers, I was tasked with programming in pairs or teams nearly every day of the course. I now lead the Front End Development team at now-u, communicating with developers from all over the world daily. Communication is crucial to continuous learning as well as being able to summarise problems to find efficient solutions. I am confident in explaining technological concepts with metaphors and non-technical language in order to make it as accessible as possible.
+During my time at Makers, I was tasked with programming in pairs or teams every day of the course. I now lead the Front End Development team at now-u, communicating with developers from all over the world daily. I am confident in explaining technological concepts with metaphors and non-technical language in order to make it as accessible as possible.
 
 ## Projects
 
 | | | 
 |:-------------------------:|:-------------------------:|
-| <a href="https://github.com/now-u/now-u-campaigns"><img width="1604" alt="Now U Logo" src="./cv-images/now-u.svg" height="222" width="258"> </a>  [now-u](https://github.com/now-u/now-u-campaigns) |  now-u is a UK based non-profit encouraging social change with meaningful actions. Started at the beginning of the recent pandemic, they launched on iOS Android and Web in July, and have since had over 500 users for various campaigns. The Web Application is built purely with React, the API in Rails, and native application in Flutter. |
+| <a href="https://github.com/now-u/now-u-campaigns"><img width="1604" alt="Now U Logo" src="./cv-images/now-u.svg" height="222" width="258"> </a>  [now-u](https://now-u.com) |  now-u is a UK based non-profit encouraging social change with meaningful actions. Started at the beginning of the recent pandemic, they launched on iOS Android and Web in July, and have since had over 500 users for various campaigns. The Web Application is built purely with React, the API in Rails, and native application in Flutter. |
 <a href="https://github.com/stellenberger/Community-Video"><img width="1604" alt="Community Video Logo" src="./cv-images/community_video.png" height="222" width="258"> </a>  [Community Video](https://github.com/stellenberger/Community-Video) |  Makers Academy final project. Inspired by social distancing regulations in the 2020 Covid outbreak, this project brings communities closer by encouraging users to share skills with other members, and get paid through donations from other users. This project was completed remotely in 7 days.  |
 <a href="https://www.gjonesharp.com"><img width="1604" alt="Gabriella Jones Logo" src="./cv-images/gabriella_jones.svg" height="222" width="258"> </a>  [Gabriella Jones Portfolio](https://github.com/stellenberger/gabriella_jones) |  Harpist Gabriella Jones' personal portfolio, built in two weeks using React and deployed with AWS. I plan to implement a headless CMS to allow her to control the content on her website in an efficient and easy way. |
-<a href="https://github.com/stellenberger/bank_tech_test/"><img width="1604" alt="Tech Tests" src="./cv-images/piggy.png" height="222" width="258"> </a>  [Gilded Rose](https://github.com/stellenberger/GildedRose-Refactoring-Kata/tree/master/js-jasmine) \| [Bank Tech Test](https://github.com/stellenberger/bank_tech_test) | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Written in Ruby and Javascript. |
+<a href="https://github.com/stellenberger/bank_tech_test/"><img width="1604" alt="Tech Tests" src="./cv-images/piggy.png" height="222" width="258"> </a>  [Gilded Rose](https://github.com/stellenberger/GildedRose-Refactoring-Kata/tree/master/js-jasmine) \| [Bank Tech Test](https://github.com/stellenberger/bank_tech_test) | Week 10 of Makers Academy, to showcase solo understanding in OOP and TDD. Unit tests written in a fully decoupled manner with seperation of concerns in mind. Written in Ruby and Javascript. |
 | <a href="https://github.com/stellenberger/instagram-challenge"><img width="1604" alt="instagram" src="./cv-images/instagram.png" height="222" width="258"> </a>  [Instagram-challenge](https://github.com/stellenberger/instagram-challenge) | Makers Academy weekend challenge - Instagram clone using rails, with basic features to produce an MVP. Completed in 2 days, solo work. | 
 | <a href="https://github.com/stellenberger/movie_choosie"><img width="1604" alt="movie_choosie" src="./cv-images/movie_choosie.png" height="222" width="258"> </a>  [Moovie-Choosie](https://github.com/stellenberger/movie_choosie) | A movie search engine that displays many attributes of chosen movie. Solo project aimed at practising Vanilla JavaScript, using the DOM and creating single page applications with no page reload. | 
 | <a href="https://github.com/ratcliffetj/Age-UK-Volunteer-Matching"><img width="1604" alt="movie_choosie" src="./cv-images/age_uk_volunteer_logo.png" height="222" width="258"> </a>  [Age UK Volunteer Matching](https://github.com/ratcliffetj/Age-UK-Volunteer-Matching) | Completed in just 48 hours as part of a brief submitted by AGE UK for the Hack for Heros Hackathon, June 2020. A team of seven people and created using Ruby on Rails, the app secured the team special mention for second place. The app is now being re-written with React and Rails (can be found <a href="https://github.com/ratcliffetj/Age-UK-Volunteer-Matching">here</a>) for the public. | 
@@ -59,13 +59,15 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 
 - Implementing dynamic User Interfaces for hundreds of users with ReactJS.
 - Conducting Code Reviews
+- Testing the application using React Testing Library, Jest, Enzyme
+- Familiarity with GitHub Actions and Docker
 - Leading a team of Developers through Agile Sprints
 - Onboarding volunteers
 
 *Volunteer Back End Developer (May - July)*  
 
 - Developing a Ruby on Rails API for a React and Flutter front end, managing user authentication, campaigns, donations, blogs, comments, and more. 
-- Use of Docker for deployment
+- Use of Docker and GitHub Actions for deployment and CI
 - Mapped out the entire relation table for documentation in a diagram for use in onboarding and debugging. 
 
 
@@ -84,6 +86,15 @@ During my time at Makers, I was tasked with programming in pairs or teams nearly
 
 *Private Piano Teacher*  
  - Working as a piano teacher for private students of all ages and experiences - the youngest being 5 years old and oldest 80. Organised private concerts and events for students to partake in, as well as creating new, original and engaging resources for students to use.
+
+#### Further experience
+
+**Volunteer React Developer at coderoots**
+- Volunteered as a ReactJS Developer, making coderoots tablet and mobile friendly throughout the site (solo), also helping implement new components from Figma designs.
+
+**Hack for Heros Hackathon**
+- Team of myself and six others secured special mention Second Place after creating a FullStack Volunteer Matching application in less than 48 hours, satisfying a brief submitted by Age UK. 
+
 
 ## Education
 
